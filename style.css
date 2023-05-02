@@ -8,6 +8,6 @@ table{
     text-align: center;
 }
 .center{
-    display: flex;
-    justify-content: center;   
+    margin-right: auto;
+    margin-left: auto; 
 }
