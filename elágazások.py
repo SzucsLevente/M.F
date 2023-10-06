@@ -61,3 +61,4 @@ if x%3 == 0:
     print("osztható 3-mal")
 else:
     print("nem osztható 3-mal")'''
+
